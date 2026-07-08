@@ -1,0 +1,21 @@
+{
+  "name": "@reblackwell3/npm-publish-ci",
+  "version": "1.0.0",
+  "description": "CI publish tooling: build, dist fingerprint, auto-bump, npm publish, version commit",
+  "type": "module",
+  "bin": {
+    "publish-ci": "./bin/publish-ci.mjs"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reblackwell3/npm-publish-ci.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
