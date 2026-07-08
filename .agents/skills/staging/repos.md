@@ -8,7 +8,7 @@ Run in this order when possible (dependencies flow downward).
 
 | Repo | Path |
 | --- | --- |
-| npm-publish-ci | `/Users/robert/code/endchess/npm-publish-ci` |
+| endchess-npm-publish-ci | `/Users/robert/code/endchess/endchess-npm-publish-ci` |
 | endchess-models | `/Users/robert/code/endchess/endchess-models` |
 | react-chess-core | `/Users/robert/code/endchess/react-chess-core` |
 | react-chess-explorer | `/Users/robert/code/endchess/react-chess-explorer` |

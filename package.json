@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reblackwell3/npm-publish-ci.git"
+    "url": "git+https://github.com/reblackwell3/endchess-npm-publish-ci.git"
   },
   "license": "MIT",
   "engines": {
