@@ -1,11 +1,11 @@
-# @reblackwell3/npm-publish-ci
+# endchess-npm-publish-ci
 
 Shared CI publish tooling for EndChess npm libraries: install deps (including `file:` → npm swap), build, dist fingerprint, auto patch-bump, publish, and push version commit.
 
 ## Usage
 
 ```bash
-npx @reblackwell3/npm-publish-ci
+npx endchess-npm-publish-ci
 ```
 
 Requires `NODE_AUTH_TOKEN` and `GITHUB_TOKEN` in CI.

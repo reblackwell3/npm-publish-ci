@@ -1,10 +1,10 @@
 {
-  "name": "@reblackwell3/npm-publish-ci",
+  "name": "endchess-npm-publish-ci",
   "version": "1.0.0",
   "description": "CI publish tooling: build, dist fingerprint, auto-bump, npm publish, version commit",
   "type": "module",
   "bin": {
-    "publish-ci": "./bin/publish-ci.mjs"
+    "publish-ci": "bin/publish-ci"
   },
   "files": [
     "bin",
