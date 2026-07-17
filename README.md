@@ -1,6 +1,6 @@
 # endchess-npm-publish-ci
 
-Shared CI publish tooling for EndChess npm libraries: install deps (including `file:` → npm swap), build, dist fingerprint, auto patch-bump, publish, and push version commit.
+Shared CI publish tooling for EndChess npm libraries: sync exact/`file:` monorepo sibling pins to latest npm, install deps (including `file:` → npm swap), build, dist fingerprint, auto patch-bump, publish, and push version commit.
 
 ## Usage
 
