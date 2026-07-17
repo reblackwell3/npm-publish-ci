@@ -1,6 +1,6 @@
 {
   "name": "endchess-npm-publish-ci",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CI publish tooling: build, dist fingerprint, auto-bump, npm publish, version commit",
   "type": "module",
   "bin": {
